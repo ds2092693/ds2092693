@@ -1,111 +1,209 @@
 <div align="center">
-  <h1>Hi there, I'm Divyanshu Sharma 👋</h1>
-  <h3>Software Engineer | Systems Builder | Algorithmic Problem Solver</h3>
-  <p><em>Building distributed systems, evaluating complex constraints, and writing reproducible logic.</em></p>
+  <h1 align="center">
+    Hi there, I'm <a href="https://www.linkedin.com/in/divyanshu-sharma-899267297/">Divyanshu Sharma</a> 👋
+  </h1>
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyanshu-sharma-899267297/) 
-  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ds2092693@gmail.com) 
-  <br/>
-  [![](https://komarev.com/ghpvc/?username=ds2092693&icon=0&color=0)](https://visitcount.itsvg.in)
+  <a href="https://github.com/ds2092693">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=620&lines=Software+Engineer+%7C+Systems+Builder;Full+Stack+%26+Real-Time+Distributed+Systems;CRDTs+%7C+WebSockets+%7C+Low-Latency+AI+Workflows;Algorithmic+Problem+Solver+(AIR+844+AINCAT)" alt="Typing SVG" />
+  </a>
+
+  <p align="center">
+    <em>Architecting resilient distributed systems, real-time collaborative apps, and high-performance algorithms.</em>
+  </p>
+
+  <p align="center">
+    <a href="https://www.linkedin.com/in/divyanshu-sharma-899267297/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:ds2092693@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://canvasflow-silk.vercel.app/"><img src="https://img.shields.io/badge/Live_App-CanvasFlow-6366F1?style=for-the-badge&logo=vercel&logoColor=white" alt="CanvasFlow" /></a>
+  </p>
+
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=ds2092693&color=6366f1&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  </p>
 </div>
 
 ---
 
 ### 👨‍💻 About Me
-I am a Computer Science undergrad at Graphic Era University with a strong foundation in **Data Structures, Algorithms, Object-Oriented Design, and Complexity Analysis**. I specialize in building multi-tiered backend architectures and fully local, low-latency AI-agentic workflows. 
 
-* 🏆 **Algorithmic Focus:** Secured **All India Rank 844** in AINCAT 2025 and actively solved 350+ data structure & optimization puzzles across competitive programming platforms.
-* ⚙️ **Systems Engineering:** Architected distributed, multi-role backend data flows and stabilized concurrent database writes to meet high-availability goals during my internship at Infosys.
-* 🍏 **Engineering Excellence:** Selected as a top 100 candidate (out of 5,000+) for the prestigious **Apple & Infosys Engineering Cohort**.
-* 🎨 **Beyond the Screen:** When I'm not tracing matrix-traversal algorithms or debugging memory leaks, I experiment with minimal vector illustrations, drone cinematography in the Darjeeling mountains, writing Hindi poetry, and generating 432Hz/528Hz ambient soundscapes for deep work.
+I am a Computer Science undergrad at **Graphic Era University** with a strong foundation in **Data Structures, Algorithms, Distributed Architectures, and Complexity Analysis**. I specialize in building multi-tiered backend systems, real-time collaborative applications, and low-latency AI-agentic workflows.
+
+- 🏆 **Algorithmic Mastery:** Secured **All India Rank 844** in AINCAT 2025 and solved **350+ optimization & algorithmic challenges** across competitive platforms.
+- ⚙️ **Systems Engineering:** Architected distributed, multi-role backend data flows and stabilized concurrent database write loads during my internship at **Infosys**.
+- 🍏 **Engineering Cohort:** Selected as one of the **Top 100 engineers out of 5,000+** nationwide for the prestigious **Apple & Infosys Engineering Cohort**.
+- 🎨 **Beyond Code:** Minimal vector illustrations, drone cinematography across Darjeeling, Hindi poetry, and generating 432Hz/528Hz ambient soundscapes for deep focus.
 
 ---
 
-### 🚀 Featured Project Spotlight
+### 🚀 Featured Projects
 
 <table>
+  <!-- Project 1: CanvasFlow -->
   <tr>
-    <td>
-      <h3 align="left">🎨 CanvasFlow — AI-Powered Collaborative Whiteboard</h3>
+    <td width="50%" valign="top">
+      <h3 align="left">🎨 <a href="https://github.com/ds2092693/canvasflow">CanvasFlow</a></h3>
       <p>
-        A high-performance, real-time multiplayer whiteboard application featuring CRDT-based conflict-free synchronization, peer-to-peer WebRTC networking, and an integrated generative AI assistant for diagram creation, mind mapping, and flowcharts.
+        <b>AI-Powered Real-Time Collaborative Whiteboard</b><br/>
+        Multiplayer canvas with CRDT-based conflict-free sync, peer-to-peer WebRTC networking, and an integrated generative AI assistant for diagram & mind map synthesis.
       </p>
       <p>
-        <b>Tech Stack:</b>
-        <code>React 19</code> · <code>TypeScript</code> · <code>Yjs (CRDTs)</code> · <code>WebRTC</code> · <code>Rough.js</code> · <code>Vercel Serverless</code> · <code>TailwindCSS</code>
+        <code>React 19</code> · <code>TypeScript</code> · <code>Yjs CRDTs</code> · <code>WebRTC</code> · <code>Rough.js</code> · <code>Vercel</code>
       </p>
       <p>
         <a href="https://canvasflow-silk.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/Live%20Demo-Vercel-success?style=for-the-badge&logo=vercel" alt="Live Demo" />
+          <img src="https://img.shields.io/badge/Live%20Demo-Vercel-success?style=flat-square&logo=vercel" alt="Live Demo" />
         </a>
         <a href="https://github.com/ds2092693/canvasflow" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github" alt="Repository" />
+          <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github" alt="Repository" />
         </a>
       </p>
-      <ul>
-        <li>⚡ <b>Multiplayer Collaboration:</b> Real-time cursor presence and canvas state synchronization powered by Yjs CRDTs & WebRTC.</li>
-        <li>🤖 <b>Generative AI Assistant:</b> Natural language prompt-to-diagram generation with automatic fallback engine.</li>
-        <li>🎯 <b>Fluid Infinite Canvas:</b> Smooth vector rendering with Rough.js hand-drawn styling, undo/redo tree, and export capabilities.</li>
-      </ul>
+    </td>
+    <!-- Project 2: Honeytoken -->
+    <td width="50%" valign="top">
+      <h3 align="left">🛡️ <a href="https://github.com/ds2092693/Credential_Honeytoken_System">Credential Honeytoken System</a></h3>
+      <p>
+        <b>Cybersecurity Deception & Intrusion Detection</b><br/>
+        Active defense platform generating cryptographic decoy credentials and real-time alert triggers when unauthorized data breaches or lateral movements occur.
+      </p>
+      <p>
+        <code>Python</code> · <code>Cybersecurity</code> · <code>Threat Detection</code> · <code>Decoy Auditing</code>
+      </p>
+      <p>
+        <a href="https://github.com/ds2092693/Credential_Honeytoken_System" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github" alt="Repository" />
+        </a>
+      </p>
+    </td>
+  </tr>
+
+  <!-- Project 3: Fleet Management -->
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="left">🚚 <a href="https://github.com/ds2092693/Fleet-Management-System">Fleet Saathi</a></h3>
+      <p>
+        <b>Fleet Logistics & Real-Time Telematics Engine</b><br/>
+        End-to-end logistics platform managing vehicle diagnostics, route optimization, driver assignments, and live telemetry tracking with high availability.
+      </p>
+      <p>
+        <code>Node.js</code> · <code>Express</code> · <code>MongoDB</code> · <code>WebSockets</code> · <code>IoT Telematics</code>
+      </p>
+      <p>
+        <a href="https://github.com/ds2092693/Fleet-Management-System" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github" alt="Repository" />
+        </a>
+      </p>
+    </td>
+    <!-- Project 4: MedVault -->
+    <td width="50%" valign="top">
+      <h3 align="left">🏥 <a href="https://github.com/ds2092693/medvault_project">MedVault</a></h3>
+      <p>
+        <b>Secure Healthcare & Medical Records Vault</b><br/>
+        Encrypted health management system ensuring patient data privacy, role-based cryptographic access controls, and immutable audit logs.
+      </p>
+      <p>
+        <code>Python</code> · <code>FastAPI/Flask</code> · <code>Cryptography</code> · <code>Role-Based Access</code>
+      </p>
+      <p>
+        <a href="https://github.com/ds2092693/medvault_project" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github" alt="Repository" />
+        </a>
+      </p>
     </td>
   </tr>
 </table>
 
-### 💻 Tech Stack
+---
 
-**Core Languages:**
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) 
+### 💻 Tech Stack & Arsenal
 
-**Backend, Distributed Systems & Cloud:**
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) 
-
-**Databases & Data Engineering:**
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
-
-**AI & Machine Learning:**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-
-**Frontend & Developer Tools:**
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+<table>
+  <tr>
+    <td width="20%"><b>Core Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+      <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Frontend & UI</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+      <img src="https://img.shields.io/badge/Rough.js-E10098?style=flat-square&logo=canvas&logoColor=white" />
+      <img src="https://img.shields.io/badge/HTML5/CSS3-E34F26?style=flat-square&logo=html5&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Backend & Real-Time</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white" />
+      <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white" />
+      <img src="https://img.shields.io/badge/Yjs_(CRDTs)-FF6B6B?style=flat-square&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Databases & Cloud</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>AI & Machine Learning</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" />
+      <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=speedtest&logoColor=white" />
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📊 GitHub Stats & Activity
+### 📊 GitHub Analytics & Activity
 
 <div align="center">
-
-![](https://github-readme-stats.shion.dev/api?username=ds2092693&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://streak-stats.demolab.com/?user=ds2092693&theme=dark&hide_border=false)
-<br/><br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=ds2092693&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=ds2092693&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=ds2092693&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="48%" />
 </div>
 
 <br/>
 
-<!-- Snake Game Repo View -->
 <div align="center">
-
-![](https://profile-readme-generator.com/assets/snake.svg)
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ds2092693&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="60%" />
 </div>
 
 <br/>
 
-### 🏆 GitHub Trophies
+<!-- Snake Game Activity View -->
 <div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=ds2092693&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Contribution Snake" />
 </div>
 
 <br/>
 
-### 🔝 Top Contributed Repo & Daily Quote
+### 💡 Daily Engineering Thought
 <div align="center">
-
-![](https://github-contributor-stats.vercel.app/api?username=ds2092693&limit=5&theme=dark&combine_all_yearly_contributions=true)
-<br/><br/>
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Engineering Quote" />
 </div>
+
