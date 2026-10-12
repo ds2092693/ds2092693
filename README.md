@@ -21,6 +21,36 @@ I am a Computer Science undergrad at Graphic Era University with a strong founda
 
 ---
 
+### 🚀 Featured Project Spotlight
+
+<table>
+  <tr>
+    <td>
+      <h3 align="left">🎨 CanvasFlow — AI-Powered Collaborative Whiteboard</h3>
+      <p>
+        A high-performance, real-time multiplayer whiteboard application featuring CRDT-based conflict-free synchronization, peer-to-peer WebRTC networking, and an integrated generative AI assistant for diagram creation, mind mapping, and flowcharts.
+      </p>
+      <p>
+        <b>Tech Stack:</b>
+        <code>React 19</code> · <code>TypeScript</code> · <code>Yjs (CRDTs)</code> · <code>WebRTC</code> · <code>Rough.js</code> · <code>Vercel Serverless</code> · <code>TailwindCSS</code>
+      </p>
+      <p>
+        <a href="https://canvasflow-silk.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/Live%20Demo-Vercel-success?style=for-the-badge&logo=vercel" alt="Live Demo" />
+        </a>
+        <a href="https://github.com/ds2092693/canvasflow" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github" alt="Repository" />
+        </a>
+      </p>
+      <ul>
+        <li>⚡ <b>Multiplayer Collaboration:</b> Real-time cursor presence and canvas state synchronization powered by Yjs CRDTs & WebRTC.</li>
+        <li>🤖 <b>Generative AI Assistant:</b> Natural language prompt-to-diagram generation with automatic fallback engine.</li>
+        <li>🎯 <b>Fluid Infinite Canvas:</b> Smooth vector rendering with Rough.js hand-drawn styling, undo/redo tree, and export capabilities.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
 ### 💻 Tech Stack
 
 **Core Languages:**
