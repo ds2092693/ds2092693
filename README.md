@@ -8,14 +8,14 @@
   </a>
 
   <p align="center">
-    <em>Architecting resilient distributed systems, native iOS experiences, and high-performance algorithms.</em>
+    <em>Architecting resilient distributed systems, native iOS healthtech, and high-performance algorithms.</em>
   </p>
 
   <p align="center">
     <a href="https://www.linkedin.com/in/divyanshu-sharma-899267297/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="mailto:ds2092693@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="https://canvasflow-silk.vercel.app/"><img src="https://img.shields.io/badge/Live_App-CanvasFlow-6366F1?style=for-the-badge&logo=vercel&logoColor=white" alt="CanvasFlow" /></a>
-    <a href="https://testflight.apple.com/join/pyxj5HUd"><img src="https://img.shields.io/badge/TestFlight_Beta-PMOS_iOS-007AFF?style=for-the-badge&logo=apple&logoColor=white" alt="PMOS iOS Beta" /></a>
+    <a href="https://testflight.apple.com/join/pyxj5HUd"><img src="https://img.shields.io/badge/TestFlight_Beta-Myra_iOS-007AFF?style=for-the-badge&logo=apple&logoColor=white" alt="Myra iOS Beta" /></a>
   </p>
 
   <p align="center">
@@ -32,7 +32,7 @@ I am a Computer Science undergrad at **Graphic Era University** with a strong fo
 - 🏆 **Algorithmic Mastery:** Secured **All India Rank 844** in AINCAT 2025 and solved **350+ optimization & algorithmic challenges** across competitive platforms.
 - 🍏 **Apple & Infosys Engineering Cohort:** Selected as one of the **Top 100 engineers out of 5,000+** nationwide for the prestigious Apple & Infosys program.
 - ⚙️ **Systems Engineering:** Architected distributed, multi-role backend data flows and stabilized concurrent database write loads during my internship at **Infosys**.
-- 📱 **Native Mobile & Systems:** Crafting high-performance iOS apps with Swift/SwiftUI, CoreData, and Apple Human Interface Guidelines.
+- 📱 **Native Mobile & Systems:** Crafting high-performance iOS apps with Swift/SwiftUI, CoreData, Computer Vision (Gemini Vision), and Apple Human Interface Guidelines.
 - 🎨 **Beyond Code:** Minimal vector illustrations, drone cinematography across Darjeeling, Hindi poetry, and generating 432Hz/528Hz ambient soundscapes for deep focus.
 
 ---
@@ -46,7 +46,7 @@ I am a Computer Science undergrad at **Graphic Era University** with a strong fo
       <h3 align="left">🎨 <a href="https://github.com/ds2092693/canvasflow">CanvasFlow</a></h3>
       <p>
         <b>AI-Powered Real-Time Collaborative Whiteboard</b><br/>
-        Multiplayer canvas featuring CRDT-based conflict-free sync, peer-to-peer WebRTC networking, and an integrated generative AI assistant for diagram & mind map synthesis.
+        Multiplayer infinite canvas with CRDT-based conflict-free sync, peer-to-peer WebRTC networking, and an integrated generative AI assistant for diagram & mind map synthesis.
       </p>
       <p>
         <code>React 19</code> · <code>TypeScript</code> · <code>Yjs CRDTs</code> · <code>WebRTC</code> · <code>Rough.js</code> · <code>Vercel</code>
@@ -60,15 +60,15 @@ I am a Computer Science undergrad at **Graphic Era University** with a strong fo
         </a>
       </p>
     </td>
-    <!-- Project 2: PMOS iOS Management -->
+    <!-- Project 2: Myra iOS (PCOS Management) -->
     <td width="50%" valign="top">
-      <h3 align="left">📱 PMOS Management (iOS)</h3>
+      <h3 align="left">📱 Myra — PCOS Health & Lifestyle (iOS)</h3>
       <p>
-        <b>Project & Operations Management Suite</b><br/>
-        Native iOS productivity and operations engine engineered for agile team coordination, task hierarchies, real-time status tracking, and offline-first persistence. Launching on the Apple App Store soon.
+        <b>AI-Powered Women's Hormonal Health & Management Companion</b><br/>
+        Native iOS healthtech app featuring <i>MyraLens</i> (Gemini Vision AI meal scanner), AI companion chatbot, hormonal cycle tracking, PCOS-specific nutrition guidance, and mindfulness audio. Launching on the Apple App Store soon.
       </p>
       <p>
-        <code>Swift</code> · <code>SwiftUI / UIKit</code> · <code>iOS SDK</code> · <code>CoreData</code> · <code>Apple HIG</code>
+        <code>Swift</code> · <code>UIKit / SwiftUI</code> · <code>Gemini Vision AI</code> · <code>CoreData</code> · <code>Apple HIG</code>
       </p>
       <p>
         <a href="https://testflight.apple.com/join/pyxj5HUd" target="_blank">
@@ -184,13 +184,12 @@ I am a Computer Science undergrad at **Graphic Era University** with a strong fo
   <tr>
     <td><b>AI & Machine Learning</b></td>
     <td>
+      <img src="https://img.shields.io/badge/Gemini_Vision_AI-8E75C2?style=flat-square&logo=google&logoColor=white" />
       <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" />
       <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=speedtest&logoColor=white" />
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
       <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
       <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
-      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
     </td>
   </tr>
 </table>
