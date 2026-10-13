@@ -4,17 +4,18 @@
   </h1>
   
   <a href="https://github.com/ds2092693">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=620&lines=Software+Engineer+%7C+Systems+Builder;Full+Stack+%26+Real-Time+Distributed+Systems;CRDTs+%7C+WebSockets+%7C+Low-Latency+AI+Workflows;Algorithmic+Problem+Solver+(AIR+844+AINCAT)" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=620&lines=Software+Engineer+%7C+Systems+Builder;Full+Stack+%26+iOS+Engineer;CRDTs+%7C+WebSockets+%7C+Low-Latency+AI+Workflows;Algorithmic+Problem+Solver+(AIR+844+AINCAT)" alt="Typing SVG" />
   </a>
 
   <p align="center">
-    <em>Architecting resilient distributed systems, real-time collaborative apps, and high-performance algorithms.</em>
+    <em>Architecting resilient distributed systems, native iOS experiences, and high-performance algorithms.</em>
   </p>
 
   <p align="center">
     <a href="https://www.linkedin.com/in/divyanshu-sharma-899267297/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="mailto:ds2092693@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="https://canvasflow-silk.vercel.app/"><img src="https://img.shields.io/badge/Live_App-CanvasFlow-6366F1?style=for-the-badge&logo=vercel&logoColor=white" alt="CanvasFlow" /></a>
+    <a href="https://testflight.apple.com/join/pyxj5HUd"><img src="https://img.shields.io/badge/TestFlight_Beta-PMOS_iOS-007AFF?style=for-the-badge&logo=apple&logoColor=white" alt="PMOS iOS Beta" /></a>
   </p>
 
   <p align="center">
@@ -26,11 +27,12 @@
 
 ### 👨‍💻 About Me
 
-I am a Computer Science undergrad at **Graphic Era University** with a strong foundation in **Data Structures, Algorithms, Distributed Architectures, and Complexity Analysis**. I specialize in building multi-tiered backend systems, real-time collaborative applications, and low-latency AI-agentic workflows.
+I am a Computer Science undergrad at **Graphic Era University** with a strong foundation in **Data Structures, Algorithms, Distributed Architectures, and Complexity Analysis**. I specialize in building multi-tiered backend systems, native iOS applications, and low-latency AI-agentic workflows.
 
 - 🏆 **Algorithmic Mastery:** Secured **All India Rank 844** in AINCAT 2025 and solved **350+ optimization & algorithmic challenges** across competitive platforms.
+- 🍏 **Apple & Infosys Engineering Cohort:** Selected as one of the **Top 100 engineers out of 5,000+** nationwide for the prestigious Apple & Infosys program.
 - ⚙️ **Systems Engineering:** Architected distributed, multi-role backend data flows and stabilized concurrent database write loads during my internship at **Infosys**.
-- 🍏 **Engineering Cohort:** Selected as one of the **Top 100 engineers out of 5,000+** nationwide for the prestigious **Apple & Infosys Engineering Cohort**.
+- 📱 **Native Mobile & Systems:** Crafting high-performance iOS apps with Swift/SwiftUI, CoreData, and Apple Human Interface Guidelines.
 - 🎨 **Beyond Code:** Minimal vector illustrations, drone cinematography across Darjeeling, Hindi poetry, and generating 432Hz/528Hz ambient soundscapes for deep focus.
 
 ---
@@ -44,7 +46,7 @@ I am a Computer Science undergrad at **Graphic Era University** with a strong fo
       <h3 align="left">🎨 <a href="https://github.com/ds2092693/canvasflow">CanvasFlow</a></h3>
       <p>
         <b>AI-Powered Real-Time Collaborative Whiteboard</b><br/>
-        Multiplayer canvas with CRDT-based conflict-free sync, peer-to-peer WebRTC networking, and an integrated generative AI assistant for diagram & mind map synthesis.
+        Multiplayer canvas featuring CRDT-based conflict-free sync, peer-to-peer WebRTC networking, and an integrated generative AI assistant for diagram & mind map synthesis.
       </p>
       <p>
         <code>React 19</code> · <code>TypeScript</code> · <code>Yjs CRDTs</code> · <code>WebRTC</code> · <code>Rough.js</code> · <code>Vercel</code>
@@ -58,7 +60,30 @@ I am a Computer Science undergrad at **Graphic Era University** with a strong fo
         </a>
       </p>
     </td>
-    <!-- Project 2: Honeytoken -->
+    <!-- Project 2: PMOS iOS Management -->
+    <td width="50%" valign="top">
+      <h3 align="left">📱 PMOS Management (iOS)</h3>
+      <p>
+        <b>Project & Operations Management Suite</b><br/>
+        Native iOS productivity and operations engine engineered for agile team coordination, task hierarchies, real-time status tracking, and offline-first persistence. Launching on the Apple App Store soon.
+      </p>
+      <p>
+        <code>Swift</code> · <code>SwiftUI / UIKit</code> · <code>iOS SDK</code> · <code>CoreData</code> · <code>Apple HIG</code>
+      </p>
+      <p>
+        <a href="https://testflight.apple.com/join/pyxj5HUd" target="_blank">
+          <img src="https://img.shields.io/badge/TestFlight-Public_Beta-007AFF?style=flat-square&logo=apple&logoColor=white" alt="TestFlight Beta" />
+        </a>
+        <a href="https://testflight.apple.com/join/pyxj5HUd" target="_blank">
+          <img src="https://img.shields.io/badge/App_Store-Coming_Soon-000000?style=flat-square&logo=apple&logoColor=white" alt="App Store Coming Soon" />
+        </a>
+        <img src="https://img.shields.io/badge/Code-Private_Commercial-orange?style=flat-square&logo=github" alt="Private Repo" />
+      </p>
+    </td>
+  </tr>
+
+  <!-- Project 3: Honeytoken -->
+  <tr>
     <td width="50%" valign="top">
       <h3 align="left">🛡️ <a href="https://github.com/ds2092693/Credential_Honeytoken_System">Credential Honeytoken System</a></h3>
       <p>
@@ -70,25 +95,6 @@ I am a Computer Science undergrad at **Graphic Era University** with a strong fo
       </p>
       <p>
         <a href="https://github.com/ds2092693/Credential_Honeytoken_System" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github" alt="Repository" />
-        </a>
-      </p>
-    </td>
-  </tr>
-
-  <!-- Project 3: Fleet Management -->
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="left">🚚 <a href="https://github.com/ds2092693/Fleet-Management-System">Fleet Saathi</a></h3>
-      <p>
-        <b>Fleet Logistics & Real-Time Telematics Engine</b><br/>
-        End-to-end logistics platform managing vehicle diagnostics, route optimization, driver assignments, and live telemetry tracking with high availability.
-      </p>
-      <p>
-        <code>Node.js</code> · <code>Express</code> · <code>MongoDB</code> · <code>WebSockets</code> · <code>IoT Telematics</code>
-      </p>
-      <p>
-        <a href="https://github.com/ds2092693/Fleet-Management-System" target="_blank">
           <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github" alt="Repository" />
         </a>
       </p>
@@ -120,17 +126,28 @@ I am a Computer Science undergrad at **Graphic Era University** with a strong fo
   <tr>
     <td width="20%"><b>Core Languages</b></td>
     <td>
+      <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" />
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
       <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-      <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" />
     </td>
   </tr>
   <tr>
-    <td><b>Frontend & UI</b></td>
+    <td><b>Mobile & Apple</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/SwiftUI-007AFF?style=flat-square&logo=swift&logoColor=white" />
+      <img src="https://img.shields.io/badge/UIKit-232F3E?style=flat-square&logo=apple&logoColor=white" />
+      <img src="https://img.shields.io/badge/Xcode-1575F9?style=flat-square&logo=xcode&logoColor=white" />
+      <img src="https://img.shields.io/badge/CoreData-007AFF?style=flat-square&logo=apple&logoColor=white" />
+      <img src="https://img.shields.io/badge/TestFlight-007AFF?style=flat-square&logo=apple&logoColor=white" />
+      <img src="https://img.shields.io/badge/Apple_HIG-000000?style=flat-square&logo=apple&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Frontend & Web</b></td>
     <td>
       <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black" />
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
@@ -179,21 +196,6 @@ I am a Computer Science undergrad at **Graphic Era University** with a strong fo
 </table>
 
 ---
-
-### 📊 GitHub Analytics & Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ds2092693&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=ds2092693&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="48%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ds2092693&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="60%" />
-</div>
-
-<br/>
 
 <!-- Snake Game Activity View -->
 <div align="center">
