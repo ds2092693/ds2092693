@@ -4,18 +4,30 @@
   </h1>
   
   <a href="https://github.com/ds2092693">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=620&lines=Software+Engineer+%7C+Systems+Builder;Full+Stack+%26+iOS+Engineer;CRDTs+%7C+WebSockets+%7C+Low-Latency+AI+Workflows;Algorithmic+Problem+Solver+(AIR+844+AINCAT)" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=620&lines=Software+Development+Engineer+(SDE);Distributed+Systems+%7C+Concurrency+%7C+iOS;LangGraph+State+Machines+%7C+RAG+Pipelines;AIR+844+AINCAT+%7C+400%2B+DSA+Solved" alt="Typing SVG" />
   </a>
 
   <p align="center">
-    <em>Architecting resilient distributed systems, native iOS healthtech, and high-performance algorithms.</em>
+    <em>Building fault-tolerant concurrency, scalable platform architectures, and intelligent autonomous workflows.</em>
   </p>
 
+  <!-- Interactive Links & Badges -->
   <p align="center">
-    <a href="https://www.linkedin.com/in/divyanshu-sharma-899267297/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:ds2092693@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://canvasflow-silk.vercel.app/"><img src="https://img.shields.io/badge/Live_App-CanvasFlow-6366F1?style=for-the-badge&logo=vercel&logoColor=white" alt="CanvasFlow" /></a>
-    <a href="https://testflight.apple.com/join/pyxj5HUd"><img src="https://img.shields.io/badge/TestFlight_Beta-Myra_iOS-007AFF?style=for-the-badge&logo=apple&logoColor=white" alt="Myra iOS Beta" /></a>
+    <a href="https://portfolio-sand-xi-u5ep414vmc.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/⚡_Live_Systems_Workspace-Divyanshu_Sharma_•_SDE_Platform-6366F1?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Systems Workspace" />
+    </a>
+    <a href="https://www.linkedin.com/in/divyanshu-sharma-899267297/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:ds2092693@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://canvasflow-silk.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Live_App-CanvasFlow-10B981?style=for-the-badge&logo=vercel&logoColor=white" alt="CanvasFlow" />
+    </a>
+    <a href="https://testflight.apple.com/join/pyxj5HUd" target="_blank">
+      <img src="https://img.shields.io/badge/TestFlight_Beta-Myra_iOS-007AFF?style=for-the-badge&logo=apple&logoColor=white" alt="Myra iOS Beta" />
+    </a>
   </p>
 
   <p align="center">
@@ -23,21 +35,24 @@
   </p>
 </div>
 
+> 🌐 **Interactive Production Workspace:** [**Divyanshu Sharma — Systems, Concurrency & AI Engineering Platform**](https://portfolio-sand-xi-u5ep414vmc.vercel.app/)  
+> *Features a live LangGraph Agent state-machine simulator, real-time telemetry logs, CRDT collaborative whiteboard, 3D verified persona, and native iOS architectures.*
+
 ---
 
 ### 👨‍💻 About Me
 
-I am a Computer Science undergrad at **Graphic Era University** with a strong foundation in **Data Structures, Algorithms, Distributed Architectures, and Complexity Analysis**. I specialize in building multi-tiered backend systems, native iOS applications, and low-latency AI-agentic workflows.
+I am a Software Development Engineer (SDE) and Computer Science student at **Graphic Era University** (8.5 CGPA) with deep foundations in **Distributed Systems, Concurrency, Algorithmic Optimization, and Agentic AI Architecture**.
 
-- 🏆 **Algorithmic Mastery:** Secured **All India Rank 844** in AINCAT 2025 and solved **350+ optimization & algorithmic challenges** across competitive platforms.
-- 🍏 **Apple & Infosys Engineering Cohort:** Selected as one of the **Top 100 engineers out of 5,000+** nationwide for the prestigious Apple & Infosys program.
-- ⚙️ **Systems Engineering:** Architected distributed, multi-role backend data flows and stabilized concurrent database write loads during my internship at **Infosys**.
-- 📱 **Native Mobile & Systems:** Crafting high-performance iOS apps with Swift/SwiftUI, CoreData, Computer Vision (Gemini Vision), and Apple Human Interface Guidelines.
-- 🎨 **Beyond Code:** Minimal vector illustrations, drone cinematography across Darjeeling, Hindi poetry, and generating 432Hz/528Hz ambient soundscapes for deep focus.
+- 🏆 **Algorithmic Mastery:** Secured **All India Rank 844** in AINCAT 2025 and solved **400+ algorithmic problems** across LeetCode, GeeksforGeeks, TUF+, and Codeforces.
+- 🍏 **Apple & Infosys Engineering Cohort:** Selected as one of the **Top 100 engineers from 5,000+ applicants** nationwide for the Apple & Infosys engineering cohort.
+- ⚙️ **Systems Engineering & Concurrency:** Architected secure 3-tier role-based access platform on Supabase/PostgreSQL, resolving 15+ Jira tickets and **mitigating 12+ database race conditions during concurrent multi-role writes** at **Infosys**.
+- 🛠️ **Memory Profiling & Clean Architecture:** Refactored enterprise components by 15% using Object-Oriented Design (OOD) and eliminated 10+ memory leaks using **macOS Instruments**.
+- 📱 **Native iOS & Multimodal AI:** Crafting high-performance native iOS applications with Swift/SwiftUI, Gemini Vision AI, and Apple HealthKit integration.
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Featured Engineering Projects
 
 <table>
   <!-- Project 1: CanvasFlow -->
@@ -45,7 +60,7 @@ I am a Computer Science undergrad at **Graphic Era University** with a strong fo
     <td width="50%" valign="top">
       <h3 align="left">🎨 <a href="https://github.com/ds2092693/canvasflow">CanvasFlow</a></h3>
       <p>
-        <b>AI-Powered Real-Time Collaborative Whiteboard</b><br/>
+        <b>Real-Time Collaborative CRDT Whiteboard Engine</b><br/>
         Multiplayer infinite canvas with CRDT-based conflict-free sync, peer-to-peer WebRTC networking, and an integrated generative AI assistant for diagram & mind map synthesis.
       </p>
       <p>
@@ -60,12 +75,12 @@ I am a Computer Science undergrad at **Graphic Era University** with a strong fo
         </a>
       </p>
     </td>
-    <!-- Project 2: Myra iOS (PCOS Management) -->
+    <!-- Project 2: MYRA -->
     <td width="50%" valign="top">
-      <h3 align="left">📱 <a href="https://github.com/ds2092693/myra-ios">Myra — PCOS Health & Lifestyle (iOS)</a></h3>
+      <h3 align="left">🌸 <a href="https://testflight.apple.com/join/pyxj5HUd">MYRA — PCOS Health & Lifestyle Companion</a></h3>
       <p>
-        <b>AI-Powered Women's Hormonal Health & Management Companion</b><br/>
-        Native iOS healthtech app featuring <i>MyraLens</i> (Gemini Vision AI meal scanner), on-device AI companion, cycle tracking, PCOS nutrition database, and clinical PDF exports. Launching on the Apple App Store soon.
+        <b>Multimodal Vision & AI-Powered iOS Health Architecture</b><br/>
+        Native iOS healthtech app featuring <i>MyraLens</i> (Gemini Vision AI meal scanner with &lt;1.5s latency), on-device AI companion, cycle tracking, and clinical PDF exports.
       </p>
       <p>
         <code>Swift</code> · <code>UIKit / SwiftUI</code> · <code>Gemini Vision AI</code> · <code>Apple Intelligence</code> · <code>HealthKit</code>
@@ -84,35 +99,38 @@ I am a Computer Science undergrad at **Graphic Era University** with a strong fo
     </td>
   </tr>
 
-  <!-- Project 3: Honeytoken -->
+  <!-- Project 3: AI-Powered Stock Screener -->
   <tr>
     <td width="50%" valign="top">
-      <h3 align="left">🛡️ <a href="https://github.com/ds2092693/Credential_Honeytoken_System">Credential Honeytoken System</a></h3>
+      <h3 align="left">📈 <a href="https://portfolio-sand-xi-u5ep414vmc.vercel.app/#agent-simulator">AI-Powered Financial Stock Screener</a></h3>
       <p>
-        <b>Cybersecurity Deception & Intrusion Detection</b><br/>
-        Active defense platform generating cryptographic decoy credentials and real-time alert triggers when unauthorized data breaches or lateral movements occur.
+        <b>Autonomous Agentic State Machine & RAG Pipeline</b><br/>
+        Multi-agent financial decision engine orchestrating tasks via LangGraph state machines, Ollama local LLM inference, and yFinance RAG with 20+ CI/CD unit guardrails.
       </p>
       <p>
-        <code>Python</code> · <code>Cybersecurity</code> · <code>Threat Detection</code> · <code>Decoy Auditing</code>
+        <code>Python</code> · <code>LangGraph</code> · <code>LangChain</code> · <code>Ollama</code> · <code>RAG</code> · <code>CI/CD</code>
       </p>
       <p>
-        <a href="https://github.com/ds2092693/Credential_Honeytoken_System" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github" alt="Repository" />
+        <a href="https://portfolio-sand-xi-u5ep414vmc.vercel.app/#agent-simulator" target="_blank">
+          <img src="https://img.shields.io/badge/Live_Simulator-Agentic_State_Machine-6366F1?style=flat-square&logo=vercel" alt="Live Simulator" />
+        </a>
+        <a href="https://github.com/ds2092693" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-ds2092693-181717?style=flat-square&logo=github" alt="Repository" />
         </a>
       </p>
     </td>
-    <!-- Project 4: MedVault -->
+    <!-- Project 4: Honeytoken -->
     <td width="50%" valign="top">
-      <h3 align="left">🏥 <a href="https://github.com/ds2092693/medvault_project">MedVault</a></h3>
+      <h3 align="left">🛡️ <a href="https://github.com/ds2092693/Credential_Honeytoken_System">Credential Honeytoken System</a></h3>
       <p>
-        <b>Secure Healthcare & Medical Records Vault</b><br/>
-        Encrypted health management system ensuring patient data privacy, role-based cryptographic access controls, and immutable audit logs.
+        <b>Cybersecurity Deception & Active Defense Platform</b><br/>
+        Active threat deception platform featuring a Node.js backend to intercept attacker payloads, validated with 12 Cypress E2E automated test scripts.
       </p>
       <p>
-        <code>Python</code> · <code>FastAPI/Flask</code> · <code>Cryptography</code> · <code>Role-Based Access</code>
+        <code>Node.js</code> · <code>MongoDB</code> · <code>Cypress E2E</code> · <code>REST APIs</code> · <code>Observability</code>
       </p>
       <p>
-        <a href="https://github.com/ds2092693/medvault_project" target="_blank">
+        <a href="https://github.com/ds2092693/Credential_Honeytoken_System" target="_blank">
           <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github" alt="Repository" />
         </a>
       </p>
@@ -143,55 +161,42 @@ I am a Computer Science undergrad at **Graphic Era University** with a strong fo
       <img src="https://img.shields.io/badge/SwiftUI-007AFF?style=flat-square&logo=swift&logoColor=white" />
       <img src="https://img.shields.io/badge/UIKit-232F3E?style=flat-square&logo=apple&logoColor=white" />
       <img src="https://img.shields.io/badge/Xcode-1575F9?style=flat-square&logo=xcode&logoColor=white" />
-      <img src="https://img.shields.io/badge/CoreData-007AFF?style=flat-square&logo=apple&logoColor=white" />
+      <img src="https://img.shields.io/badge/HealthKit-007AFF?style=flat-square&logo=apple&logoColor=white" />
+      <img src="https://img.shields.io/badge/macOS_Instruments-000000?style=flat-square&logo=apple&logoColor=white" />
       <img src="https://img.shields.io/badge/TestFlight-007AFF?style=flat-square&logo=apple&logoColor=white" />
-      <img src="https://img.shields.io/badge/Apple_HIG-000000?style=flat-square&logo=apple&logoColor=white" />
     </td>
   </tr>
   <tr>
     <td><b>Frontend & Web</b></td>
     <td>
       <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black" />
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
       <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
       <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-      <img src="https://img.shields.io/badge/Rough.js-E10098?style=flat-square&logo=canvas&logoColor=white" />
       <img src="https://img.shields.io/badge/HTML5/CSS3-E34F26?style=flat-square&logo=html5&logoColor=white" />
     </td>
   </tr>
   <tr>
-    <td><b>Backend & Real-Time</b></td>
+    <td><b>Backend & Systems</b></td>
     <td>
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
       <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
       <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white" />
       <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white" />
       <img src="https://img.shields.io/badge/Yjs_(CRDTs)-FF6B6B?style=flat-square&logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Databases & Cloud</b></td>
-    <td>
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
       <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
     </td>
   </tr>
   <tr>
-    <td><b>AI & Machine Learning</b></td>
+    <td><b>AI & Agentic Systems</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Gemini_Vision_AI-8E75C2?style=flat-square&logo=google&logoColor=white" />
-      <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" />
-      <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=speedtest&logoColor=white" />
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+      <img src="https://img.shields.io/badge/LangGraph-6366F1?style=flat-square&logo=diagram-next&logoColor=white" />
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+      <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
+      <img src="https://img.shields.io/badge/Gemini_Vision_API-8E75C2?style=flat-square&logo=google&logoColor=white" />
+      <img src="https://img.shields.io/badge/RAG_Pipelines-10B981?style=flat-square&logo=database&logoColor=white" />
+      <img src="https://img.shields.io/badge/Model_Context_Protocol-06B6D4?style=flat-square&logo=openai&logoColor=white" />
     </td>
   </tr>
 </table>
@@ -209,4 +214,3 @@ I am a Computer Science undergrad at **Graphic Era University** with a strong fo
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Engineering Quote" />
 </div>
-
