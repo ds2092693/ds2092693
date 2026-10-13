@@ -62,22 +62,24 @@ I am a Computer Science undergrad at **Graphic Era University** with a strong fo
     </td>
     <!-- Project 2: Myra iOS (PCOS Management) -->
     <td width="50%" valign="top">
-      <h3 align="left">📱 Myra — PCOS Health & Lifestyle (iOS)</h3>
+      <h3 align="left">📱 <a href="https://github.com/ds2092693/myra-ios">Myra — PCOS Health & Lifestyle (iOS)</a></h3>
       <p>
         <b>AI-Powered Women's Hormonal Health & Management Companion</b><br/>
-        Native iOS healthtech app featuring <i>MyraLens</i> (Gemini Vision AI meal scanner), AI companion chatbot, hormonal cycle tracking, PCOS-specific nutrition guidance, and mindfulness audio. Launching on the Apple App Store soon.
+        Native iOS healthtech app featuring <i>MyraLens</i> (Gemini Vision AI meal scanner), on-device AI companion, cycle tracking, PCOS nutrition database, and clinical PDF exports. Launching on the Apple App Store soon.
       </p>
       <p>
-        <code>Swift</code> · <code>UIKit / SwiftUI</code> · <code>Gemini Vision AI</code> · <code>CoreData</code> · <code>Apple HIG</code>
+        <code>Swift</code> · <code>UIKit / SwiftUI</code> · <code>Gemini Vision AI</code> · <code>Apple Intelligence</code> · <code>HealthKit</code>
       </p>
       <p>
         <a href="https://testflight.apple.com/join/pyxj5HUd" target="_blank">
           <img src="https://img.shields.io/badge/TestFlight-Public_Beta-007AFF?style=flat-square&logo=apple&logoColor=white" alt="TestFlight Beta" />
         </a>
+        <a href="https://github.com/ds2092693/myra-ios" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-Architecture_&_Docs-181717?style=flat-square&logo=github" alt="Architecture & Docs" />
+        </a>
         <a href="https://testflight.apple.com/join/pyxj5HUd" target="_blank">
           <img src="https://img.shields.io/badge/App_Store-Coming_Soon-000000?style=flat-square&logo=apple&logoColor=white" alt="App Store Coming Soon" />
         </a>
-        <img src="https://img.shields.io/badge/Code-Private_Commercial-orange?style=flat-square&logo=github" alt="Private Repo" />
       </p>
     </td>
   </tr>
