@@ -25,6 +25,9 @@
     <a href="https://canvasflow-silk.vercel.app/" target="_blank">
       <img src="https://img.shields.io/badge/Live_App-CanvasFlow-10B981?style=for-the-badge&logo=vercel&logoColor=white" alt="CanvasFlow" />
     </a>
+    <a href="https://chessflow-px48.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Live_App-ChessFlow-EF4444?style=for-the-badge&logo=vercel&logoColor=white" alt="ChessFlow" />
+    </a>
     <a href="https://testflight.apple.com/join/pyxj5HUd" target="_blank">
       <img src="https://img.shields.io/badge/TestFlight_Beta-Myra_iOS-007AFF?style=for-the-badge&logo=apple&logoColor=white" alt="Myra iOS Beta" />
     </a>
@@ -36,7 +39,7 @@
 </div>
 
 > 🌐 **Interactive Production Workspace:** [**Divyanshu Sharma — Systems, Concurrency & AI Engineering Platform**](https://portfolio-sand-xi-u5ep414vmc.vercel.app/)  
-> *Features a live LangGraph Agent state-machine simulator, real-time telemetry logs, CRDT collaborative whiteboard, 3D verified persona, and native iOS architectures.*
+> *Features a live LangGraph Agent state-machine simulator, real-time telemetry logs, CRDT collaborative whiteboard (CanvasFlow), distributed real-time chess platform (ChessFlow), 3D verified persona, and native iOS architectures.*
 
 ---
 
@@ -55,8 +58,9 @@ I am a Software Development Engineer (SDE) and Computer Science student at **Gra
 ### 🚀 Featured Engineering Projects
 
 <table>
-  <!-- Project 1: CanvasFlow -->
+  <!-- Row 1: CanvasFlow & MYRA -->
   <tr>
+    <!-- Project 1: CanvasFlow -->
     <td width="50%" valign="top">
       <h3 align="left">🎨 <a href="https://github.com/ds2092693/canvasflow">CanvasFlow</a></h3>
       <p>
@@ -99,38 +103,25 @@ I am a Software Development Engineer (SDE) and Computer Science student at **Gra
     </td>
   </tr>
 
-  <!-- Project 3: AI-Powered Stock Screener -->
+  <!-- Row 2: ChessFlow -->
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="left">📈 <a href="https://portfolio-sand-xi-u5ep414vmc.vercel.app/#agent-simulator">AI-Powered Financial Stock Screener</a></h3>
+    <td colspan="2" width="100%" valign="top">
+      <h3 align="left">♞ <a href="https://chessflow-px48.vercel.app/">ChessFlow — Real-Time Distributed WebSocket Chess & In-House Minimax AI</a></h3>
       <p>
-        <b>Autonomous Agentic State Machine & RAG Pipeline</b><br/>
-        Multi-agent financial decision engine orchestrating tasks via LangGraph state machines, Ollama local LLM inference, and yFinance RAG with 20+ CI/CD unit guardrails.
+        <b>Server-Authoritative Real-Time WebSocket Engine & Competitive AI Matchmaking</b><br/>
+        Full-stack multiplayer chess platform featuring dynamic Elo rating matchmaking (1200 baseline), an in-house Minimax + Alpha-Beta pruning engine with MVV-LVA move ordering, real Google/GitHub OAuth authentication, and low-latency WebSocket clustering.
       </p>
       <p>
-        <code>Python</code> · <code>LangGraph</code> · <code>LangChain</code> · <code>Ollama</code> · <code>RAG</code> · <code>CI/CD</code>
+        <code>TypeScript</code> · <code>Node.js</code> · <code>WebSockets (ws)</code> · <code>React 18</code> · <code>Turborepo</code> · <code>Express</code> · <code>PostgreSQL / Prisma</code> · <code>Docker</code> · <code>Minimax AI</code>
       </p>
       <p>
-        <a href="https://portfolio-sand-xi-u5ep414vmc.vercel.app/#agent-simulator" target="_blank">
-          <img src="https://img.shields.io/badge/Live_Simulator-Agentic_State_Machine-6366F1?style=flat-square&logo=vercel" alt="Live Simulator" />
+        <a href="https://chessflow-px48.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/Live%20Demo-Vercel-success?style=flat-square&logo=vercel" alt="Live Demo" />
         </a>
-        <a href="https://github.com/ds2092693" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-ds2092693-181717?style=flat-square&logo=github" alt="Repository" />
+        <a href="https://chessflow-backend.onrender.com/health" target="_blank">
+          <img src="https://img.shields.io/badge/API-Render-46E3B7?style=flat-square&logo=render&logoColor=white" alt="API Status" />
         </a>
-      </p>
-    </td>
-    <!-- Project 4: Honeytoken -->
-    <td width="50%" valign="top">
-      <h3 align="left">🛡️ <a href="https://github.com/ds2092693/Credential_Honeytoken_System">Credential Honeytoken System</a></h3>
-      <p>
-        <b>Cybersecurity Deception & Active Defense Platform</b><br/>
-        Active threat deception platform featuring a Node.js backend to intercept attacker payloads, validated with 12 Cypress E2E automated test scripts.
-      </p>
-      <p>
-        <code>Node.js</code> · <code>MongoDB</code> · <code>Cypress E2E</code> · <code>REST APIs</code> · <code>Observability</code>
-      </p>
-      <p>
-        <a href="https://github.com/ds2092693/Credential_Honeytoken_System" target="_blank">
+        <a href="https://github.com/ds2092693/ChessFlow" target="_blank">
           <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github" alt="Repository" />
         </a>
       </p>
